@@ -4,7 +4,7 @@
 
     <groupId>pacifica.archi</groupId>
     <artifactId>sample-web</artifactId>
-    <version>1.0.6-SNAPSHOT</version>
+    <version>1.0.6</version>
     <packaging>jar</packaging>
 
     <name>sample-web</name>
